@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\bin\Debug\dictionnary.exe.config
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\bin\Debug\dictionnary.exe
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\bin\Debug\dictionnary.pdb
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.Properties.Resources.resources
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.exe
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.pdb
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.Form1.resources
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.Form2.resources
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.Form3.resources
+C:\Users\Acer\Desktop\WORK\PROJET .NET\dictionnary\dictionnary\obj\Debug\dictionnary.Form4.resources
